@@ -221,13 +221,7 @@ npm run dev
 ## 🛡️ License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
-### 📞 Contact & Support
-For any queries, reach out via:
-📧 Email: saurabhshirbhate.96@gmail.com  
-🌍 GitHub: [SSaurabhShirbhate](https://github.com/SSaurabhShirbhate)  
-💬 Discord: --
 
----
+
 🚀 **Let's build the best rental marketplace together!** 🔥
 
